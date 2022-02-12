@@ -9,7 +9,7 @@ const Sidebar = () => {
       <LogoWrapper>
         <img src={logo} alt="" />
         <h3>
-          Eli <span>Codes</span>
+          Shaxzod <span>Codes</span>
         </h3>
       </LogoWrapper>
       <Form>
@@ -17,7 +17,7 @@ const Sidebar = () => {
         <Input placeholder="Full Name" />
         <Input type="email" placeholder="Email" />
         <Input type="password" placeholder="Password" />
-        <Input type="password" placeholder="Confrim Password" />
+        <Input type="password" placeholder="Confirm Password" />
         <button>Sign Up</button>
       </Form>
       <div>
